@@ -1,16 +1,58 @@
 {
-    "PecasdeAutomovel":[
-       {"nome": "Dom Casmurro",
-        "autor": "machado de Assis",
-        "ano":1920,
+    "MangaAcao":[
+       {"nome": "Black Hazer",
+        "capitulo":161,
+        "estatus":"em andamento",
         "id": 1},
-        {"nome": "Dom Casmurro",
-        "autor": "machado de Assis",
-        "ano":1920,
-        "id": 1},
-        {"nome": "Dom Casmurro",
-        "autor": "machado de Assis",
-        "ano":1920,
-        "id": 1}        
+        {"nome": "Solo Leveling",
+        "capitulo":179,
+        "estatus":"concluido",
+        "id": 2},
+        {"nome": "Existence",
+        "capitulo":26,
+        "estatus":"em andamento",
+        "id": 3}        
+    ],
+    "MangaDrama":[
+       {"nome": "The Beginning After The End",
+        "capitulo":173,
+        "estatus":"em andamento",
+        "id": 4},
+        {"nome": "Lookism",
+        "capitulo":430,
+        "estatus":"em andamento",
+        "id": 5},
+        {"nome": "Chronicles of Heavenly Demon",
+        "capitulo":187,
+        "estatus":"em andamento",
+        "id": 6}        
+    ],
+    "MangaEscolar":[
+       {"nome": "God of Blackfield",
+        "capitulo":129,
+        "estatus":"em andamento",
+        "id": 7},
+        {"nome": "Weak hero",
+        "capitulo":216,
+        "estatus":"em andamento",
+        "id": 8},
+        {"nome": "Study Group",
+        "capitulo":167,
+        "estatus":"em andamento",
+        "id": 9}        
+    ],
+    "MangaFantasia":[
+       {"nome": "king of Manifestations",
+        "capitulo":132,
+        "estatus":"em andamento",
+        "id": 10},
+        {"nome": "Memorize",
+        "capitulo":100,
+        "estatus":"em andamento",
+        "id": 11},
+        {"nome": "Nano Machine",
+        "capitulo":138,
+        "estatus":"em andamento",
+        "id": 12}        
     ]
 }

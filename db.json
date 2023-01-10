@@ -1,0 +1,16 @@
+{
+    "PecasdeAutomovel":[
+       {"nome": "Dom Casmurro",
+        "autor": "machado de Assis",
+        "ano":1920,
+        "id": 1},
+        {"nome": "Dom Casmurro",
+        "autor": "machado de Assis",
+        "ano":1920,
+        "id": 1},
+        {"nome": "Dom Casmurro",
+        "autor": "machado de Assis",
+        "ano":1920,
+        "id": 1}        
+    ]
+}
